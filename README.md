@@ -1,4 +1,4 @@
-# NevnapGUI
+# Névnap - GUI
 ```
  A nevnap.csv fájl névnapok adatait (név;nap1[;nap2;nap3...]) tartalmazza,
  pontosvesszővel elválasztva, utf-8 kódolással.
